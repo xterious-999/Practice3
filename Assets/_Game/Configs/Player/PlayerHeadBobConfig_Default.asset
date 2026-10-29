@@ -16,6 +16,6 @@ MonoBehaviour:
   horizontalAmplitude: 0.012
   verticalAmplitude: 0.018
   rollAmplitude: 0.35
-  sprintFrequency: 9.5
-  sprintAmplitudeMultiplier: 1.15
+  sprintFrequency: 8
+  sprintAmplitudeMultiplier: 1.05
   returnSpeed: 12
