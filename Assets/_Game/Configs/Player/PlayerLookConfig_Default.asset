@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e31be9872b36f6842b45dcb6cb5c431f, type: 3}
   m_Name: PlayerLookConfig_Default
   m_EditorClassIdentifier: Assembly-CSharp::PlayerLookConfig
-  sensitivity: 0.08
+  sensitivity: 0.10
   minPitch: -85
   maxPitch: 85
